@@ -50,7 +50,7 @@ console.log(sorted);
 
  // Question 5
 let arr5=["the","way","x",4];
-let search="make";
+let search="we";
 if (arr5.includes(search)){
 console.log(search);
 }
